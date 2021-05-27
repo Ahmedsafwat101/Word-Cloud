@@ -27,6 +27,6 @@ Text mining methods allow us to highlight the most frequently used keywords in a
 
 # Plot 
 
-<img  align="right" alt="Pic" src="http://rpubs.com/Ahmed_Abdelfaheem/774956" width="500"/>
+<img   alt="Pic" src="https://github.com/Ahmedsafwat101/Word-Cloud-/blob/main/plot" width="100%"/>
 
 
